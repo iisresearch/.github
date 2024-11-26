@@ -1,8 +1,8 @@
 ## Hi there 👋
-# Projects
+# 🛠️ Projects
 ## Chedventure
 ### Overview
-ChEdventure is designed to provide an interactive and educational experience, using cutting-edge technologies to deliver robust and scalable solutions.
+ChEdventure is designed to provide an interactive and educational experience for students and lecturers using AI technologies.
 
 ### 📦 Repositories
 - [ChEdBot](https://github.com/iisresearch/ChEdBot): The chatbot component of the ChEdventure project.
