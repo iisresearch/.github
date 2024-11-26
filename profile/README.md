@@ -1,4 +1,5 @@
 ## 🛠️ Projects
+
 ### Chedventure
 ChEdventure is designed to provide an interactive and educational experience for students and lecturers using AI technologies.
 
