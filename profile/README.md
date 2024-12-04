@@ -13,7 +13,7 @@ ChEdventure is designed to provide an interactive and educational experience for
 - **Server**: Handles all backend processes, ensuring data integrity and security.
 - **Client**: Provides a user-friendly interface for seamless interaction with the system.
 
-### 📝 Tutorials and Examples
+### 📔 Handbook: Tutorials and Examples
 - [Video](https://fhnw365.sharepoint.com/teams/p-chedventure_m365/_layouts/15/stream.aspx?id=%2Fteams%2Fp%2Dchedventure%5Fm365%2FFreigegebene%20Dokumente%2FGeneral%2FDocumentation%2FChedventure%2DAnleitung%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E330f4be4%2D9d1e%2D472a%2Db691%2Db86a0f0e2b30) for lecturers
 - [Case-based ChEdBot Examples](https://miro.com/app/board/uXjVK-2ZLx8=/)
 
